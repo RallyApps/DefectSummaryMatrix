@@ -1,6 +1,8 @@
 Rally Defect Summary Matrix
 ============
 
+## This app is deprecated. Please use the new Defect Summary Matrix board on our app-catalog [here](https://github.com/RallyApps/app-catalog/tree/master/src/apps/defectsummarymatrix).
+
 ![Title](https://raw.github.com/RallyApps/DefectSummaryMatrix/master/screenshots/title-screenshot.png)
 
 ## Overview
